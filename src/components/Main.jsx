@@ -33,9 +33,9 @@ export default function Main({ city }) {
       {!weatherLoading && !weatherError && (
         <WeatherSection weatherData={weatherData} />
       )}
-      {/* {!forecastLoading && !forecastError && (
+      {!forecastLoading && !forecastError && (
         <ForecastList forecastData={forecastData} />
-      )} */}
+      )}
     </main>
   );
 }
