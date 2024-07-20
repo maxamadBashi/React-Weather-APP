@@ -23,7 +23,7 @@ export default function useWeather({ city }) {
           setWeatherData(response.data);
         } catch (error) {
           setWeatherError(error);
-        } finally {
+        } finally  {
           setWeatherLoading(false);
         }
       };
@@ -33,5 +33,5 @@ export default function useWeather({ city }) {
       return () => {};
     }, [city]);
   
-    return { weatherData, weatherLoading, weatherError };
+    return { weatherData, weatherLoading, weatherError  };
   }

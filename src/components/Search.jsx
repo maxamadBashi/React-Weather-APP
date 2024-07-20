@@ -6,4 +6,5 @@ export default function Search({ onSearch }) {
   const handleChange = (event) => {
     setValue(event.target.value);
   };
+  
 }
