@@ -7,6 +7,7 @@ export default function ForecastList({ forecastData }) {
         forecastData.list.map((item, index) => (
           <ForecastItem key={index} forecastData={item} />
         ))}
+        
     </ul>
   );
 }
