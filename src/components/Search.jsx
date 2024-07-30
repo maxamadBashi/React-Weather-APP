@@ -25,7 +25,7 @@ export default function Search({ onSearch }) {
       <i className="fa-solid fa-magnifying-glass opacity-75"></i>
       <input
         className="w-full outline-0 bg-transparent placeholder:text-white placeholder:opacity-75"
-        placeholder="Lviv, UA"
+        placeholder="Mogadishu, Somalia"
         name="search"
         type="text"
         value={value} // Bind input value to the state
