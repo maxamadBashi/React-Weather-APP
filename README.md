@@ -1,8 +1,9 @@
-React Weather App
+
+ React Weather App
 
 This project is a weather application built with React and Tailwind CSS. It allows users to search for and view the weather forecast for various locations.
 
-Installation
+ Installation
 
 To run this application locally, follow these steps:
 
@@ -47,7 +48,6 @@ To run this application locally, follow these steps:
 
 - .eslintrc.cjs: ESLint configuration.
 - .gitignore: Specifies files to be ignored by Git.
-- LICENSE: License information for the project.
 - README.md: Project documentation.
 - index.html: Entry point for the web application.
 - package-lock.json: Describes the exact dependency tree.
@@ -77,7 +77,7 @@ To run this application locally, follow these steps:
     - useIcon.jsx: Hook for determining the correct weather icon.
     - useWeather.jsx: Hook for fetching current weather data.
 
-Usage
+ Usage
 
 1. Search for a city:
    - Enter the city name in the search bar and press enter or click the search button.
@@ -85,13 +85,13 @@ Usage
 2. View weather details:
    - The application will display the current weather and a forecast for the searched city.
 
- License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
  Contributing
 
 Contributions are welcome! Please fork the repository and open a pull request to contribute.
+
+ Live Demo
+
+Check out the live demo of the application on Netlify: [React Weather App](https://react-wather.netlify.app/)
 
 
 
