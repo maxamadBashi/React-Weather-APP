@@ -93,9 +93,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 Contributions are welcome! Please fork the repository and open a pull request to contribute.
 
- Contact
-
-For any questions or feedback, please contact the project maintainer.
 
 
 This README provides an overview of the project, its features, installation steps, file structure, usage, license, contributing guidelines, and contact information.
